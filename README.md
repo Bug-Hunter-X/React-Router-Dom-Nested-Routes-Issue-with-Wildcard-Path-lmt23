@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Router Dom involving nested routes and wildcard paths.  The issue arises when a nested route with a wildcard path ('/*') unintentionally overrides a parent route, leading to incorrect routing. The solution clarifies how to properly structure nested routes with wildcard paths to avoid conflicts.
